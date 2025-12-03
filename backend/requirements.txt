@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langfuse
+chromadb
+google-search-results
+beautifulsoup4
+fastmcp[cli] #pip install "fastmcp[cli]"
+langgraph
+sentence-transformers
+langchain-huggingface

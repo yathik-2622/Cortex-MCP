@@ -1,0 +1,28 @@
+--- Python/Backend ---
+
+pycache/
+*.py[cod]
+.venv/
+.mcp/
+venv/
+backend/.env
+backend/.mcp/
+activate_gpu_commands.md
+chroma_db_mcp/
+chroma_db_temp/
+--- Node/Frontend ---
+
+node_modules/
+dist/
+build/
+.DS_Store
+frontend/.env
+frontend/dist/
+frontend/node_modules/
+
+--- IDEs ---
+
+.vscode/
+.idea/
+test.py
+folder_structure.md
